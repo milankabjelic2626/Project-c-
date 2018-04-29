@@ -1,0 +1,270 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6C43652D1D08C61F008F3818 /* Artikal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6C43652B1D08C61F008F3818 /* Artikal.cpp */; };
+		6C4365301D08C66F008F3818 /* CS323-PZ-Milanka-Bjelic-2626.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6C43652E1D08C66F008F3818 /* CS323-PZ-Milanka-Bjelic-2626.cpp */; };
+		6C4365331D08C6AD008F3818 /* Kasa.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6C4365311D08C6AD008F3818 /* Kasa.cpp */; };
+		6C4365361D08C6F5008F3818 /* Magacin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6C4365341D08C6F5008F3818 /* Magacin.cpp */; };
+		6C4365391D08C72D008F3818 /* Stavka.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6C4365371D08C72D008F3818 /* Stavka.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6C43651F1D08C590008F3818 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		6C4365211D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CS323-PZ-Milanka-Bjelic-2626-xCode"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C43652B1D08C61F008F3818 /* Artikal.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Artikal.cpp; sourceTree = "<group>"; };
+		6C43652C1D08C61F008F3818 /* Artikal.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Artikal.hpp; sourceTree = "<group>"; };
+		6C43652E1D08C66F008F3818 /* CS323-PZ-Milanka-Bjelic-2626.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "CS323-PZ-Milanka-Bjelic-2626.cpp"; sourceTree = "<group>"; };
+		6C4365311D08C6AD008F3818 /* Kasa.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Kasa.cpp; sourceTree = "<group>"; };
+		6C4365321D08C6AD008F3818 /* Kasa.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Kasa.hpp; sourceTree = "<group>"; };
+		6C4365341D08C6F5008F3818 /* Magacin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Magacin.cpp; sourceTree = "<group>"; };
+		6C4365351D08C6F5008F3818 /* Magacin.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Magacin.hpp; sourceTree = "<group>"; };
+		6C4365371D08C72D008F3818 /* Stavka.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Stavka.cpp; sourceTree = "<group>"; };
+		6C4365381D08C72D008F3818 /* Stavka.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Stavka.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6C43651E1D08C590008F3818 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6C4365181D08C590008F3818 = {
+			isa = PBXGroup;
+			children = (
+				6C4365231D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */,
+				6C4365221D08C590008F3818 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6C4365221D08C590008F3818 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6C4365211D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6C4365231D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */ = {
+			isa = PBXGroup;
+			children = (
+				6C43652B1D08C61F008F3818 /* Artikal.cpp */,
+				6C43652C1D08C61F008F3818 /* Artikal.hpp */,
+				6C43652E1D08C66F008F3818 /* CS323-PZ-Milanka-Bjelic-2626.cpp */,
+				6C4365311D08C6AD008F3818 /* Kasa.cpp */,
+				6C4365321D08C6AD008F3818 /* Kasa.hpp */,
+				6C4365341D08C6F5008F3818 /* Magacin.cpp */,
+				6C4365351D08C6F5008F3818 /* Magacin.hpp */,
+				6C4365371D08C72D008F3818 /* Stavka.cpp */,
+				6C4365381D08C72D008F3818 /* Stavka.hpp */,
+			);
+			path = "CS323-PZ-Milanka-Bjelic-2626-xCode";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6C4365201D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6C4365281D08C590008F3818 /* Build configuration list for PBXNativeTarget "CS323-PZ-Milanka-Bjelic-2626-xCode" */;
+			buildPhases = (
+				6C43651D1D08C590008F3818 /* Sources */,
+				6C43651E1D08C590008F3818 /* Frameworks */,
+				6C43651F1D08C590008F3818 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CS323-PZ-Milanka-Bjelic-2626-xCode";
+			productName = "CS323-PZ-Milanka-Bjelic-2626-xCode";
+			productReference = 6C4365211D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6C4365191D08C590008F3818 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Milanka Bjelic";
+				TargetAttributes = {
+					6C4365201D08C590008F3818 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 6C43651C1D08C590008F3818 /* Build configuration list for PBXProject "CS323-PZ-Milanka-Bjelic-2626-xCode" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6C4365181D08C590008F3818;
+			productRefGroup = 6C4365221D08C590008F3818 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6C4365201D08C590008F3818 /* CS323-PZ-Milanka-Bjelic-2626-xCode */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6C43651D1D08C590008F3818 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C4365361D08C6F5008F3818 /* Magacin.cpp in Sources */,
+				6C4365331D08C6AD008F3818 /* Kasa.cpp in Sources */,
+				6C4365301D08C66F008F3818 /* CS323-PZ-Milanka-Bjelic-2626.cpp in Sources */,
+				6C4365391D08C72D008F3818 /* Stavka.cpp in Sources */,
+				6C43652D1D08C61F008F3818 /* Artikal.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		6C4365261D08C590008F3818 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		6C4365271D08C590008F3818 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		6C4365291D08C590008F3818 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6C43652A1D08C590008F3818 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6C43651C1D08C590008F3818 /* Build configuration list for PBXProject "CS323-PZ-Milanka-Bjelic-2626-xCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6C4365261D08C590008F3818 /* Debug */,
+				6C4365271D08C590008F3818 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6C4365281D08C590008F3818 /* Build configuration list for PBXNativeTarget "CS323-PZ-Milanka-Bjelic-2626-xCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6C4365291D08C590008F3818 /* Debug */,
+				6C43652A1D08C590008F3818 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6C4365191D08C590008F3818 /* Project object */;
+}
